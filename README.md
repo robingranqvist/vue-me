@@ -1,4 +1,4 @@
-### Vecka 1
+### KMOM 01
         
 Att köra igång denna applikation är relativt simpelt. Börja med att ladda ned den genom att
 gå in på repot och klicka den lilla gröna "Code" knappen i högra hörnet. Här kan 
